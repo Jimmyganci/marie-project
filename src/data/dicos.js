@@ -217,6 +217,6 @@ export const definitions = [
     name: 'Liottée',
     section: '6',
     description:
-      'Dernier verre que le patron que le patron vous offre au moment àù vous vous décidez à partir.',
+      'Dernier verre que le patron vous offre au moment où vous vous décidez à partir.',
   },
 ]
